@@ -1,0 +1,2 @@
+*.bin filter=lfs diff=lfs merge=lfs -text
+src/test_lfs_repo/lfs_module.py filter=lfs diff=lfs merge=lfs -text
