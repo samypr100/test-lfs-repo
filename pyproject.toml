@@ -12,6 +12,7 @@ dependencies = []
 
 [project.scripts]
 test-lfs-repo = "test_lfs_repo:main"
+test-lfs-repo-assets = "test_lfs_repo:main_lfs"
 
 [build-system]
 requires = ["uv_build>=0.9.0,<0.10.0"]
